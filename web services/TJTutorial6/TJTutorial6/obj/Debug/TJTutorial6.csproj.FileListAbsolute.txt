@@ -1,0 +1,11 @@
+c:\users\jtxw6\documents\visual studio 2010\Projects\TJTutorial6\TJTutorial6\bin\TJTutorial6.dll
+c:\users\jtxw6\documents\visual studio 2010\Projects\TJTutorial6\TJTutorial6\bin\TJTutorial6.pdb
+c:\users\jtxw6\documents\visual studio 2010\Projects\TJTutorial6\TJTutorial6\obj\Debug\TJTutorial6.dll
+c:\users\jtxw6\documents\visual studio 2010\Projects\TJTutorial6\TJTutorial6\obj\Debug\TJTutorial6.pdb
+C:\Users\jtxw6\documents\visual studio 2010\Projects\TJTutorial6\TJTutorial6\obj\Debug\TJTutorial6.csprojResolveAssemblyReference.cache
+C:\Users\Surya\Downloads\TJTutorial6\TJTutorial6\TJTutorial6\bin\TJTutorial6.dll.config
+C:\Users\Surya\Downloads\TJTutorial6\TJTutorial6\TJTutorial6\bin\TJTutorial6.dll
+C:\Users\Surya\Downloads\TJTutorial6\TJTutorial6\TJTutorial6\bin\TJTutorial6.pdb
+C:\Users\Surya\Downloads\TJTutorial6\TJTutorial6\TJTutorial6\obj\Debug\TJTutorial6.csprojResolveAssemblyReference.cache
+C:\Users\Surya\Downloads\TJTutorial6\TJTutorial6\TJTutorial6\obj\Debug\TJTutorial6.dll
+C:\Users\Surya\Downloads\TJTutorial6\TJTutorial6\TJTutorial6\obj\Debug\TJTutorial6.pdb

@@ -1,0 +1,108 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_pink"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/tvlogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:gravity="center"
+        android:padding="@dimen/padding_min"
+        android:text="@string/login"
+        android:textColor="@color/color_green"
+        android:textSize="@dimen/text_size_medium" />
+
+    <LinearLayout
+        android:id="@+id/llunm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvlogin"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvunm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/padding_min"
+            android:text="@string/user"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size_medium" />
+
+        <EditText
+            android:id="@+id/etunm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:hint="@string/user_hint"
+            android:padding="@dimen/padding_min"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size_medium" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llpwd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/llunm"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tvpwd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="@dimen/padding_min"
+            android:text="@string/pwd_hint"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size_medium" />
+
+        <EditText
+            android:id="@+id/etpwd"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:hint="@string/pwd_hint"
+            android:inputType="textPassword"
+            android:padding="@dimen/padding_min"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size_medium" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llbuttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/llpwd"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnsubmit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Submit" />
+
+        <Button
+            android:id="@+id/btnclear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="clear" />
+
+        <Button
+            android:id="@+id/btnexit"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Exit"
+            
+            android:onClick="closeApp"
+             />
+    </LinearLayout>
+
+</RelativeLayout>
