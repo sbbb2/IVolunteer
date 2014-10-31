@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My World</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">Login</string>
+    <string name="user_hint">User Name</string>
+        <string name="user">User</string>
+    
+     <string name="pwd_hint">Password</string>
+        
+    <dimen  name="padding_min">10dp</dimen>
+        <dimen  name="text_size_medium">18sp</dimen>
+    
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ivolunteer</string>
+    <string name="UserID">UserID</string>
+    <string name="Password">Password</string>
+    <dimen name="padding_min">10dp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+</resources>

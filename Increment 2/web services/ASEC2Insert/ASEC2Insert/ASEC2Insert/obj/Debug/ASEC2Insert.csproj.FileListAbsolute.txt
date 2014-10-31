@@ -1,0 +1,4 @@
+c:\users\yarra\documents\visual studio 2010\Projects\ASEC2Insert\ASEC2Insert\bin\ASEC2Insert.dll
+c:\users\yarra\documents\visual studio 2010\Projects\ASEC2Insert\ASEC2Insert\bin\ASEC2Insert.pdb
+c:\users\yarra\documents\visual studio 2010\Projects\ASEC2Insert\ASEC2Insert\obj\Debug\ASEC2Insert.dll
+c:\users\yarra\documents\visual studio 2010\Projects\ASEC2Insert\ASEC2Insert\obj\Debug\ASEC2Insert.pdb
